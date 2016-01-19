@@ -1,0 +1,5 @@
+NODES
+1 387 162 1 Gordon 2 Stairs NULL;
+2 387 408 0 Gordon 2 Waypoint NULL;
+EDGES
+1 1 2
